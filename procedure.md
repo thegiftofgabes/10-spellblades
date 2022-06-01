@@ -38,36 +38,33 @@
 
 ## Choose a weapon style:
 
-|                  |             |
+| Style            | Trait            |
 |------------------|-------------|
 | Two-handed blade | powerful    |
 | Arming blade     | swift       |
 | Blade and shield | balanced    |
 | Dual blades      | bold        |
 | Pole blade       | cautious    |
-|                  |             |
 
 ## Choose a spell focus:
 
-|            |             |
+| Focus      | Aptitude    |
 |------------|-------------|
 | Needle     | Mending     |
 | Cane       | Rebuking    |
 | Cloak      | Seeming     |
 | Mirror     | Revealing   |
 | Chalice    | Empathizing |
-|            |             |
 
 ## Define your Skills
 
 Each skill has 3 Skill Slots. Fill as many or as few skill slots as you wish.
 
-|              |        |
-|--------------|--------|
-| **Force**    | ☐ ☐ ☐  |
-| **Finesse**  | ☐ ☐ ☐  |
-| **Sense**    | ☐ ☐ ☐  |
-|              |        |
+| Skill        | Slots   |
+|--------------|---------|
+| **Force**    | ☐ ☐ ☐ |
+| **Finesse**  | ☐ ☐ ☐ |
+| **Sense**    | ☐ ☐ ☐ |
 
 ## Conjure the World
 
