@@ -1,5 +1,9 @@
 # Spellblades
 
+## Apocrypha
+
+Roll 4d6 to create the Apocrypha.
+
 ### You are…
 
 1. Protectors and bodyguards...;
@@ -20,12 +24,12 @@
 
 ### Your Covenant was tasked with...
 
-1. Uproot the Cult of the White Emperor;
-2. Find the source of the Gamour pouring in;
-3. Locate and destroy the last shards of the Truest Mirror;
-4. Appease the Third and the Fourth;
-5. Protect the integrity of Paradox Vow;
-6. Bury the body of the Imposter Goddess.
+1. Uprooting the Cult of the White Emperor;
+2. Finding the source of the Gamour pouring in;
+3. Locating and destroy the last shards of the Truest Mirror;
+4. Appeasing the Third and the Fourth;
+5. Protecting the integrity of Paradox Vow;
+6. Burying the body of the Imposter Goddess.
 
 ### In order to...
 
@@ -36,39 +40,47 @@
 5. Dethrone the false Descendant of the Sun;
 6. Avoid the execution of an innocent.
 
+# Glossary
+
+- **Covenant**: The group of **Spellblades** are referred to as The Covenant;
+- **Witness**: Each player is called a Witness;
+- **Spellblade**: Each Witness is responsible for a Spellblade;
+- **Ritual**: Playing the game, the game session;
+- **Apocrypha**: the tale, or shared narrative.
+
 ## Choose a weapon style:
 
-| Style            | Trait            |
-|------------------|-------------|
-| Two-handed blade | powerful    |
-| Arming blade     | swift       |
-| Blade and shield | balanced    |
-| Dual blades      | bold        |
-| Pole blade       | cautious    |
+| Style            | Trait    |
+| ---------------- | -------- |
+| Two-handed blade | powerful |
+| Arming blade     | swift    |
+| Blade and shield | balanced |
+| Dual blades      | bold     |
+| Pole blade       | cautious |
 
 ## Choose a spell focus:
 
-| Focus      | Aptitude    |
-|------------|-------------|
-| Needle     | Mending     |
-| Cane       | Rebuking    |
-| Cloak      | Seeming     |
-| Mirror     | Revealing   |
-| Chalice    | Empathizing |
+| Focus   | Aptitude    |
+| ------- | ----------- |
+| Needle  | Mending     |
+| Cane    | Rebuking    |
+| Cloak   | Seeming     |
+| Mirror  | Revealing   |
+| Chalice | Empathizing |
 
 ## Define your Skills
 
 Each skill has 3 Skill Slots. Fill as many or as few skill slots as you wish.
 
-| Skill        | Slots   |
-|--------------|---------|
-| **Force**    | ☐ ☐ ☐ |
-| **Finesse**  | ☐ ☐ ☐ |
-| **Sense**    | ☐ ☐ ☐ |
+| Skill       | Slots |
+| ----------- | ----- |
+| **Force**   | ☐ ☐ ☐ |
+| **Finesse** | ☐ ☐ ☐ |
+| **Sense**   | ☐ ☐ ☐ |
 
 ## Conjure the World
 
-Take as many tokens of each kind, adding to 7 tokens total:
+Take as many tokens of each kind as you wish, adding to 7 tokens total:
 
 **Intrigue**: People, desperately or selfishly trying to get away with their Desires;
 
@@ -80,7 +92,13 @@ Take as many tokens of each kind, adding to 7 tokens total:
 
 Choose a name, pronouns, and looks.
 
-# Approaches
+# The Ritual
+
+Once the Apocrypha has been established, the eldest Witness must describe the situation at hand, and a charged situation at that.
+
+
+
+
 
 ## Try or Test Things
 
