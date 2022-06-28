@@ -25,7 +25,7 @@ Roll 4d6 to create the Apocrypha.
 ### Your Covenant was tasked with...
 
 1. Uprooting the Cult of the White Emperor;
-2. Finding the source of the Gamour pouring in;
+2. Finding the source of the Glamour pouring in;
 3. Locating and destroy the last shards of the Truest Mirror;
 4. Appeasing the Third and the Fourth;
 5. Protecting the integrity of Paradox Vow;
@@ -96,7 +96,7 @@ Choose a name, pronouns, and looks.
 
 Once the Apocrypha has been established, the eldest Witness must describe the situation at hand, and a charged situation at that.
 
-
+Go back to the Apocrypha you composed and circle 3 to 4 keywords (bodyguards, Riverend, glamour...) or keyphrases (Blood Rose, Miraculous Gates, Sun-Child...). Assign each word or phrase highlighted to a thing:
 
 
 
