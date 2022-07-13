@@ -115,6 +115,8 @@ There are two procedures codified for the Spellblades within the account of the 
 **Know**: Give your testimony about what Intrigue, Tragedy, or Sorcery you've witnessed;
 **Doubt**: Demand that other Witnesses testify about what Intrigue, Tragedy, or Sorcery they can attest.
 
+---
+
 ### Try or Test Things
 
 When you want to see how something will turn out, describe what you do and which skill you will apply. Choose whether you are using Spell or Blade.

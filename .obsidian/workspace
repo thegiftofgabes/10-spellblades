@@ -22,7 +22,7 @@
               "leaf": "f357f2b16f3a0059",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":118,\"ch\":0},\"to\":{\"line\":118,\"ch\":0}},\"scroll\":109.2337752965806}"
             },
             {
               "leaf": "f357f2b16f3a0059",
@@ -140,6 +140,48 @@
             }
           ]
         }
+      },
+      {
+        "id": "deaece4a7231b3bb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":111.48150732728541}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":33},\"to\":{\"line\":10,\"ch\":33}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        }
       }
     ],
     "direction": "vertical"
@@ -215,7 +257,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "procedure.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,9 +315,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f357f2b16f3a0059",
+  "active": "deaece4a7231b3bb",
   "lastOpenFiles": [
     "procedure.md",
+    "conflict-files-obsidian-git.md",
     "names.md",
     "notes to parse.md",
     "resources/ver. 1.md",
@@ -283,7 +326,6 @@
     "resources/2.png",
     "content.en/quickstart/_11-backgrounds.md",
     "content.en/quickstart/_09-core-moves.md",
-    "content.en/quickstart/_08-burdens.md",
-    "content.en/quickstart/_10-remarkable-moves.md"
+    "content.en/quickstart/_08-burdens.md"
   ]
 }
