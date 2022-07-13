@@ -92,13 +92,23 @@ Once the Apocrypha has been established, the eldest Witness must describe the si
 
 Go back to the Apocrypha Index you composed and circle 3 to 4 keywords (bodyguards, Riverend, glamour...) or keyphrases (Blood Rose, Miraculous Gates, Sun-Child...). Assign each word or phrase highlighted to a thing:
 
-## Performing the Ritual
+## Outlining the Ritual
 
 Each Witness must bring forth their share of the Apocrypha, in turns and over each other, as is their wont.
 
 All Witnesses must conduct themselves with utmost respect, care, and understanding of your limits and boundaries. Learn and teach each other when to draw a veil over the Apocrypha, and what lines must not be crossed by any means.
 
+Each Witness will role-play a Spellblade, and all will therefore contribute to the Apocrypha. When secular actors come into play, one of the Witnesses must relay their interaction with the Covenant dispassionately and removed, for as long as they are not acting directly towards their own Spellblade.
 
+When the actions of a Spellblade raise questions as to their outcomes, the dice must come into play. Six-sided dice, rolled all at once, from which the highest resulting pair of dice must be kept.
+
+Should the procedures by which the Witnesses bear their testimony fail to provide clear answers, then the account of the Apocrypha must be regarded to cue in what seems to be the most probable or intuitive course of events.
+
+When that fail, let the Witnesses convene to choose the most probable or intuitive account of the Apocrypha according to their best interests as a group.
+
+## Modus Operandi
+
+There are two procedures codified for the Spellblades within the account of the Apocrypha, and two procedures codified for the Witnesses as they relay their testimony.
 
 **Say**: Describe the word and deed of your Spellblade, as you've witnessed them;
 **Do**: With Spell or Blade, witness the result of an outcome in question;
