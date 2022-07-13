@@ -2,7 +2,9 @@
 
 ## The Apocrypha Index
 
-Roll 4d6 to compose an Apocrypha Index.
+Compose an Apocrypha Index in the Registry
+
+# You are Spellblades
 
 ### You are…
 
@@ -39,6 +41,10 @@ Roll 4d6 to compose an Apocrypha Index.
 4. Reveal the true nature of the Invisible Tyrant;
 5. Dethrone the false Descendant of the Sun;
 6. Avoid the execution of an innocent.
+
+# Profile a Spellblade
+
+Record each choice for 
 
 ## Choose a weapon style:
 
@@ -84,21 +90,27 @@ Take as many tokens of each kind as you wish, adding to 7 tokens total:
 
 Give up your past name, pronouns and looks. Find new ones.
 
-**Names** (roll 2d6): 1.1 Dia, 1.2 Ceu, 1.3 August, 1.4 Fleur, 1.5 Haven, 1.6 Aden, 2.2 Dew, 2.3 Saylor, 2.4 Vale, 2.5 Ira, 2.6 River, 3.3 Bex, 3.4 Pax, 3.5 Moss, 3.6 Rain, 4.4 Aloe, 4.5 Birch, 4.6 Bloom, 5.5 Fede, 5.6 Soleil, 6.6 Gift.
+**Names** (roll 2d6): 1.1 Dia, 1.2 Bex, 1.3 August, 1.4 Fleur, 1.5 Haven, 1.6 Aden, 2.2 Dew, 2.3 Saylor, 2.4 Vale, 2.5 Ira, 2.6 River, 3.3 Céu, 3.4 Pax, 3.5 Moss, 3.6 Rain, 4.4 Aloe, 4.5 Birch, 4.6 Bloom, 5.5 Fede, 5.6 Soleil, 6.6 Gift.
 
 # The Ritual
 
 Once the Apocrypha has been established, the eldest Witness must describe the situation at hand, and a charged situation at that.
 
-Go back to the Apocrypha Index you composed and circle 3 to 4 keywords (bodyguards, Riverend, glamour...) or keyphrases (Blood Rose, Miraculous Gates, Sun-Child...). Assign each word or phrase highlighted to a thing:
+Go back to the Apocrypha Index you composed and circle 3 to 4 keywords (bodyguards, Riverend, glamour...) or keyphrases (Blood Rose, Miraculous Gates, Sun-Child, against enemies of...). 
+
+Assign each word or phrase highlighted to a thing: a lie, a secret, a trap, an enemy.
 
 ## Outlining the Ritual
 
 Each Witness must bring forth their share of the Apocrypha, in turns and over each other, as is their wont.
 
-All Witnesses must conduct themselves with utmost respect, care, and understanding of your limits and boundaries. Learn and teach each other when to draw a veil over the Apocrypha, and what lines must not be crossed by any means.
+All Witnesses must conduct themselves with utmost respect, care, and understanding of each other's limits and boundaries, as well as they're own. 
 
-Each Witness will role-play a Spellblade, and all will therefore contribute to the Apocrypha. When secular actors come into play, one of the Witnesses must relay their interaction with the Covenant dispassionately and removed, for as long as they are not acting directly towards their own Spellblade.
+Learn and teach each other when to draw a veil over the Apocrypha, and what lines must not be crossed by any means.
+
+Each Witness is expected to role-play a Spellblade, as well as contribute to each other's account, and thus contribute to the overall telling of the Apocrypha.
+
+When secular actors come into play, one of the Witnesses must relay their interaction with the Covenant dispassionately and removed, for as long as they are not acting directly towards their own Spellblade.
 
 When the actions of a Spellblade raise questions as to their outcomes, the dice must come into play. Six-sided dice, rolled all at once, from which the highest resulting pair of dice must be kept.
 
@@ -114,6 +126,26 @@ There are two procedures codified for the Spellblades within the account of the 
 **Do**: With Spell or Blade, witness the result of an outcome in question;
 **Know**: Give your testimony about what Intrigue, Tragedy, or Sorcery you've witnessed;
 **Doubt**: Demand that other Witnesses testify about what Intrigue, Tragedy, or Sorcery they can attest.
+
+### Say
+
+As a Witness, when you roleplay the account of your designated Spellblade, Say what they do, feel, think and know.
+
+As long as the outcomes of their words and deeds are not into question, this is a free-form method of collaboration into the Apocrypha.
+
+### Do
+
+After a Witness has a Say, if the outcomes of a Spellblade's words and deeds are into question, summon the dice to Arbitrate:
+
+To summon arbitration, reach for the dice, and take one to start with.
+
+Decide whether your Spellblade had their way through Spell or Blade.
+
+When relying on Spell, add another die for each void heart, and yet one more if the Aptitude that your Focus inspires applies to this moment.
+
+When relying on Blade, add another die for each burdened die, and yet one more if the Trait that you earned with your Mastery applies at this moment.
+
+
 
 ---
 
@@ -178,3 +210,6 @@ Simple actions that don't present any serious risk or challenge can also be role
 - **Covenant**: The group of **Spellblades** are referred to as The Covenant;
 - **Ritual**: Playing the game, the game session;
 - **Apocrypha**: the tale, or shared narrative.
+- Arbiter: dice
+- Report: notes
+- Registry: character sheet

@@ -160,7 +160,7 @@
               "leaf": "deaece4a7231b3bb",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":151.6957431960921}"
+              "eState": "{\"scroll\":88.90544312630844}"
             },
             {
               "leaf": "deaece4a7231b3bb",
@@ -235,7 +235,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 178.5
+    "width": 178.5,
+    "collapsed": true
   },
   "right": {
     "id": "670b20684f9bf95b",
@@ -306,7 +307,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "deaece4a7231b3bb",
   "lastOpenFiles": [
