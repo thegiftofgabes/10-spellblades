@@ -117,6 +117,7 @@ There are two procedures codified for the Spellblades within the account of the 
 
 ---
 
+# DESIGN: ITEMS FOR CLOSURE
 ### Try or Test Things
 
 When you want to see how something will turn out, describe what you do and which skill you will apply. Choose whether you are using Spell or Blade.

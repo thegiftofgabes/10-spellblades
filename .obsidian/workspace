@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content.en/quickstart/_11-backgrounds.md",
+            "file": "procedure.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -18,6 +18,48 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":118,\"ch\":0},\"to\":{\"line\":118,\"ch\":0}},\"scroll\":109.2337752965806}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"names.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":113},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":75.66312136139723}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/ver. 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/structure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":478.6154919748779}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"resources/2.png\"}}",
+              "eState": "{}"
+            },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
@@ -95,45 +137,51 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_04-pillars.md\",\"mode\":\"source\",\"backlinks\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
+            }
+          ]
+        }
+      },
+      {
+        "id": "deaece4a7231b3bb",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "procedure.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
             {
-              "leaf": "f357f2b16f3a0059",
+              "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_03-safety-tools.md\",\"mode\":\"source\",\"backlinks\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":97.74088541666667}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":151.6957431960921}"
             },
             {
-              "leaf": "f357f2b16f3a0059",
+              "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_02-players.md\",\"mode\":\"source\",\"backlinks\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":90.48177083333333}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}},\"scroll\":0}"
             },
             {
-              "leaf": "f357f2b16f3a0059",
+              "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_01-overview.md\",\"mode\":\"source\",\"backlinks\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":22.641927083333332}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":111.48150732728541}"
             },
             {
-              "leaf": "f357f2b16f3a0059",
+              "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_02-players.md\",\"mode\":\"source\",\"backlinks\":false}}",
-              "eState": "{\"scroll\":0}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":33},\"to\":{\"line\":10,\"ch\":33}}}"
             },
             {
-              "leaf": "f357f2b16f3a0059",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_09-core-moves.md\",\"mode\":\"source\",\"backlinks\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":159,\"ch\":3},\"to\":{\"line\":159,\"ch\":3}},\"scroll\":144.75911458333334}"
-            },
-            {
-              "leaf": "f357f2b16f3a0059",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_10-remarkable-moves.md\",\"mode\":\"source\",\"backlinks\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "f357f2b16f3a0059",
+              "leaf": "deaece4a7231b3bb",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -182,25 +230,12 @@
               "pos": 0,
               "stack": []
             }
-          },
-          {
-            "id": "9575e05ccf6b37e6",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 178.5,
-    "collapsed": true
+    "width": 178.5
   },
   "right": {
     "id": "670b20684f9bf95b",
@@ -216,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content.en/quickstart/_11-backgrounds.md",
+                "file": "procedure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,123 +260,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "38f0e0c4b9755e29",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "content.en/quickstart/_09-core-moves.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "f87b1da6c33067dd",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "content.en/quickstart/_09-core-moves.md"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "2c193291dbbea222",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "8b1bf8a1833316c8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "d046e025e190e9fb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "759799735c20069d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "5754d44d44b44dd8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "a2bba93e22ec7cd8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": []
-            }
-          },
-          {
-            "id": "6970aa5dafab93a7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -384,25 +302,23 @@
               "stack": []
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "f357f2b16f3a0059",
+  "active": "deaece4a7231b3bb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "procedure.md",
+    "names.md",
+    "notes to parse.md",
+    "resources/ver. 1.md",
+    "resources/structure.md",
+    "resources/2.png",
     "content.en/quickstart/_11-backgrounds.md",
     "content.en/quickstart/_09-core-moves.md",
-    "content.en/quickstart/_08-burdens.md",
-    "content.en/quickstart/_10-remarkable-moves.md",
-    "content.en/quickstart/_07-traits.md",
-    "content.en/quickstart/_01-overview.md",
-    "content.en/quickstart/_06-conversation.md",
-    "content.en/quickstart/_04-pillars.md",
-    "content.en/quickstart/_03-safety-tools.md",
-    "content.en/quickstart/_02-players.md"
+    "content.en/quickstart/_08-burdens.md"
   ]
 }
