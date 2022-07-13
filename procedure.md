@@ -1,8 +1,8 @@
 # Spellblades
 
-## Apocrypha
+## The Apocrypha Index
 
-Roll 4d6 to create the Apocrypha.
+Roll 4d6 to compose an Apocrypha Index.
 
 ### You are…
 
@@ -40,14 +40,6 @@ Roll 4d6 to create the Apocrypha.
 5. Dethrone the false Descendant of the Sun;
 6. Avoid the execution of an innocent.
 
-# Glossary
-
-- **Covenant**: The group of **Spellblades** are referred to as The Covenant;
-- **Witness**: Each player is called a Witness;
-- **Spellblade**: Each Witness is responsible for a Spellblade;
-- **Ritual**: Playing the game, the game session;
-- **Apocrypha**: the tale, or shared narrative.
-
 ## Choose a weapon style:
 
 | Style            | Trait    |
@@ -80,27 +72,40 @@ Each skill has 3 Skill Slots. Fill as many or as few skill slots as you wish.
 
 ## Conjure the World
 
+There are 3 types of tokens: Intrigue, Tragedy and Sorcery.
+
 Take as many tokens of each kind as you wish, adding to 7 tokens total:
 
-**Intrigue**: People, desperately or selfishly trying to get away with their Desires;
+- **Intrigue**: People, desperately or selfishly, trying to get away with their Desires;
+- **Tragedy**: Events that invariably snowball into betrayal, death, or worse;
+- **Sorcery**: Nature and its spiritual essences, broken or subdued by the want for power over others.
 
-**Tragedy**: Events that invariably snowball into betrayal, death, or worse;
+## Yield your Past
 
-**Sorcery**: Nature and its spiritual essences, broken or subdued by the want for power over others.
+Give up your past name, pronouns and looks. Find new ones.
 
-## Conclude
-
-Choose a name, pronouns, and looks.
+**Names** (roll 2d6): 1.1 Dia, 1.2 Ceu, 1.3 August, 1.4 Fleur, 1.5 Haven, 1.6 Aden, 2.2 Dew, 2.3 Saylor, 2.4 Vale, 2.5 Ira, 2.6 River, 3.3 Bex, 3.4 Pax, 3.5 Moss, 3.6 Rain, 4.4 Aloe, 4.5 Birch, 4.6 Bloom, 5.5 Fede, 5.6 Soleil, 6.6 Gift.
 
 # The Ritual
 
 Once the Apocrypha has been established, the eldest Witness must describe the situation at hand, and a charged situation at that.
 
-Go back to the Apocrypha you composed and circle 3 to 4 keywords (bodyguards, Riverend, glamour...) or keyphrases (Blood Rose, Miraculous Gates, Sun-Child...). Assign each word or phrase highlighted to a thing:
+Go back to the Apocrypha Index you composed and circle 3 to 4 keywords (bodyguards, Riverend, glamour...) or keyphrases (Blood Rose, Miraculous Gates, Sun-Child...). Assign each word or phrase highlighted to a thing:
+
+## Performing the Ritual
+
+Each Witness must bring forth their share of the Apocrypha, in turns and over each other, as is their wont.
+
+All Witnesses must conduct themselves with utmost respect, care, and understanding of your limits and boundaries. Learn and teach each other when to draw a veil over the Apocrypha, and what lines must not be crossed by any means.
 
 
 
-## Try or Test Things
+**Say**: Describe the word and deed of your Spellblade, as you've witnessed them;
+**Do**: With Spell or Blade, witness the result of an outcome in question;
+**Know**: Give your testimony about what Intrigue, Tragedy, or Sorcery you've witnessed;
+**Doubt**: Demand that other Witnesses testify about what Intrigue, Tragedy, or Sorcery they can attest.
+
+### Try or Test Things
 
 When you want to see how something will turn out, describe what you do and which skill you will apply. Choose whether you are using Spell or Blade.
 
@@ -116,7 +121,7 @@ Describe how you do it, roll all dice you can, and add the highest 2 dice togeth
 - 7-9: fumble - turn it into a hit if you pay a cost or lose something relevant, or; you get nothing but the situation won’t get worse either;
 - 10-12: hit - you do the thing, or at least you learn how to go about it the best way.
 
-## Know or Decide Things
+### Know or Decide Things
 
 Spend a token of the appropriate type and describe it.
 
@@ -128,7 +133,7 @@ Offer a token of the appropriate type and ask your question.
 
 **Sorcery**: The workings or trappings of magic, omens, bargains;
 
-## Learn or Discover Things
+### Learn or Discover Things
 
 Pledge a token of your choice to lure the Covenant into answering a question of yours.
 
@@ -140,7 +145,7 @@ Should the token not be claimed, you may decide to cast it into the pit to Know 
 
 [describe or suggest token outcomes like in learn/discover]
 
-## Feel or Express Things
+### Feel or Express Things
 
 At any time, any member of the Covenant may choose this action to roleplay their character’s reactions, emotions, and thoughts in response to the other approaches.
 
@@ -152,3 +157,11 @@ Simple actions that don't present any serious risk or challenge can also be role
 # Ruin and Blasphemy
 
 [Consumption, exhaustion, exploited by the powers you wield because wielding that power makes you beholden to the power structures and they do not seek your well-being]
+
+# Glossary
+
+- **Witness**: Each player is called a Witness;
+- **Spellblade**: Each Witness is responsible for a Spellblade;
+- **Covenant**: The group of **Spellblades** are referred to as The Covenant;
+- **Ritual**: Playing the game, the game session;
+- **Apocrypha**: the tale, or shared narrative.
