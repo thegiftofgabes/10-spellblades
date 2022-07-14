@@ -27,7 +27,7 @@
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"names.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/names.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":113},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
@@ -39,7 +39,7 @@
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
@@ -160,7 +160,73 @@
               "leaf": "deaece4a7231b3bb",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":88.90544312630844}"
+              "eState": "{\"scroll\":169.0973482205164}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/names.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"testing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":163.76855082577345}"
             },
             {
               "leaf": "deaece4a7231b3bb",
@@ -235,8 +301,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 178.5,
-    "collapsed": true
+    "width": 178.5
   },
   "right": {
     "id": "670b20684f9bf95b",
@@ -312,15 +377,15 @@
   },
   "active": "deaece4a7231b3bb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "resources/names.md",
+    "resources/notes to parse.md",
     "procedure.md",
-    "names.md",
-    "notes to parse.md",
+    "README.md",
+    "test.md",
+    "testing.md",
+    "conflict-files-obsidian-git.md",
     "resources/ver. 1.md",
     "resources/structure.md",
-    "resources/2.png",
-    "content.en/quickstart/_11-backgrounds.md",
-    "content.en/quickstart/_09-core-moves.md",
-    "content.en/quickstart/_08-burdens.md"
+    "resources/2.png"
   ]
 }

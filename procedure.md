@@ -2,11 +2,9 @@
 
 ## The Apocrypha Index
 
-Compose an Apocrypha Index in the Registry
+Compose an Apocrypha Index in the Registry by rolling a die four times and comparing each roll to each step of the ladders below.
 
-# You are Spellblades
-
-### You are…
+### You are Spellblades. You are…
 
 1. Protectors and bodyguards...;
 2. Members of a secretive order...;
@@ -42,13 +40,19 @@ Compose an Apocrypha Index in the Registry
 5. Dethrone the false Descendant of the Sun;
 6. Avoid the execution of an innocent.
 
+## the twist of fate
+
+Once the Apocrypha has been composed, all Witnesses must convene to choose how to circle 3 to 4 keywords (bodyguards, Riverend, glamour...) or keyphrases (Blood Rose, Miraculous Gates, Sun-Child, against enemies of...), and assign each to a twist of fate: a lie, a secret, a trap, an enemy.
+
 # Profile a Spellblade
 
-Record each choice for 
+Follow the steps below to profile a Spellblade.
 
-## Choose a weapon style:
+## Weapon mastery
 
-| Style            | Trait    |
+Register their weapon mastery and the Trait related to it in their Profile.
+
+| Mastery          | Trait    |
 | ---------------- | -------- |
 | Two-handed blade | powerful |
 | Arming blade     | swift    |
@@ -56,7 +60,9 @@ Record each choice for
 | Dual blades      | bold     |
 | Pole blade       | cautious |
 
-## Choose a spell focus:
+## Spell focus
+
+Register their spell focus and the Aptitude it reflects in their Profile.
 
 | Focus   | Aptitude    |
 | ------- | ----------- |
@@ -66,39 +72,43 @@ Record each choice for
 | Mirror  | Revealing   |
 | Chalice | Empathizing |
 
-## Define your Skills
+## Skills
 
-Each skill has 3 Skill Slots. Fill as many or as few skill slots as you wish.
+Record the Spellblade's skills in their profile. 
 
-| Skill       | Slots |
+Any heart filled is called Ladden, any heart left empty is called Void. Mark as many hearst as Ladden and Void per skill as you see fit.
+
+Void hearts weigh in when a Spellblade relies on their Spells, while Laden hearts count towards the use of their Blade.
+
+| Skill       | Hearts |
 | ----------- | ----- |
-| **Force**   | ☐ ☐ ☐ |
-| **Finesse** | ☐ ☐ ☐ |
-| **Sense**   | ☐ ☐ ☐ |
+| **Force**   | ♡ ♡ ♡ |
+| **Finesse** | ♡ ♡ ♡ |
+| **Sense**   | ♡ ♡ ♡ |
 
-## Conjure the World
+## Burdens
 
-There are 3 types of tokens: Intrigue, Tragedy and Sorcery.
+Count what Burdens a Spellblade carries at the start of the Ritual.
 
-Take as many tokens of each kind as you wish, adding to 7 tokens total:
+There are 3 types of Burdens, called Intrigue, Tragedy, and Sorcery. Employ three types of tokens to represent them.
 
-- **Intrigue**: People, desperately or selfishly, trying to get away with their Desires;
+Collect as many Burdens of each kind as you wish, adding to a total of 7.
+
+### Burdens Reference
+
+- **Intrigue**: People, desperately or selfishly, trying to get away with their desires;
 - **Tragedy**: Events that invariably snowball into betrayal, death, or worse;
 - **Sorcery**: Nature and its spiritual essences, broken or subdued by the want for power over others.
 
 ## Yield your Past
 
-Give up your past name, pronouns and looks. Find new ones.
+Register this Spellblade's Name, Pronouns and looks. You may roll two dice to find them below.
 
 **Names** (roll 2d6): 1.1 Dia, 1.2 Bex, 1.3 August, 1.4 Fleur, 1.5 Haven, 1.6 Aden, 2.2 Dew, 2.3 Saylor, 2.4 Vale, 2.5 Ira, 2.6 River, 3.3 Céu, 3.4 Pax, 3.5 Moss, 3.6 Rain, 4.4 Aloe, 4.5 Birch, 4.6 Bloom, 5.5 Fede, 5.6 Soleil, 6.6 Gift.
 
 # The Ritual
 
 Once the Apocrypha has been established, the eldest Witness must describe the situation at hand, and a charged situation at that.
-
-Go back to the Apocrypha Index you composed and circle 3 to 4 keywords (bodyguards, Riverend, glamour...) or keyphrases (Blood Rose, Miraculous Gates, Sun-Child, against enemies of...). 
-
-Assign each word or phrase highlighted to a thing: a lie, a secret, a trap, an enemy.
 
 ## Outlining the Ritual
 
@@ -145,71 +155,38 @@ When relying on Spell, add another die for each void heart, and yet one more if 
 
 When relying on Blade, add another die for each burdened die, and yet one more if the Trait that you earned with your Mastery applies at this moment.
 
+Roll every die gathered and dismiss all but the 2 highest rolls. Add them together and resolve their arbitration thus:
 
+- 1-6: Turn to the other Witnesses as they must convene to determine what wicked fate has come to pass. Should you prove their consensus wrong, you must reveal how this Spellblade has spiralled towards Ruin or Blasphemy, then procede as if you had rolled a 10.
+- 7-9: You describe the outcome in question as you would see fit, then turn to the other Witnesses. One of them must step forward to describe what twist, unforeseen cost, or unexpected event that also comes to pass.
+- 10-12: You describe the outcome in question as you find appropriate. You may even request another Witness to add to it should the final result be 12. Accept or dismiss their contribution as you see fit.
 
----
+### Know
 
-# DESIGN: ITEMS FOR CLOSURE
-### Try or Test Things
+Forfeit a Burden of yours to introduce a previous unknown fact to the Apocrypha, or an actor that was previously unaccounted for.
 
-When you want to see how something will turn out, describe what you do and which skill you will apply. Choose whether you are using Spell or Blade.
+Recount this new fact according to the Burden you gave up, Tragedy, Intrigue, or Sorcery.
 
-If you use a skill with Spell, roll 1d6 + 1d6 per checked slot. 
+Should you introduce a new actor, create a short record of them into an index card and hold on to it for as long as the recounting of the current scene lasts. You are responsible for this actor, their words and deeds, until then.
 
-If you use s skill with Blade, roll 1d6 + 1d6 per unchecked slot.
+### Doubt
 
-If a weapon mastery or a spell mastery applies, add +1d6 to the pool.
+Pledge a Burden of your choice to lure another Witness into answering a question of yours.
 
-Describe how you do it, roll all dice you can, and add the highest 2 dice together.
+Once they claim the Burden, ask your question, and they must answer. Both the question and the answer must match the kind of Burden pledged.
 
-- 1-6: miss - the Covenant decides whether you get anything at all from what you set out for, and how badly things go from there;
-- 7-9: fumble - turn it into a hit if you pay a cost or lose something relevant, or; you get nothing but the situation won’t get worse either;
-- 10-12: hit - you do the thing, or at least you learn how to go about it the best way.
+Should the token not be claimed, you may take it back, or decide to cast it away to reveal what you Knew all along.
 
-### Know or Decide Things
+# Blasphemy and Ruin
 
-Spend a token of the appropriate type and describe it.
+When you reveal a Spellblade's evidence of Blasphemy or ruin, determine which option fits the matter at hand. Each option is only valid once.
 
-Offer a token of the appropriate type and ask your question.
+## Blasphemy
 
-**Intrigue**: A new NPC, schemes, groups or organizations;
+- [ ] 
+- [ ] 
 
-**Tragedy:** A disaster, plans and ambitions being advanced, a gathering, an interference;
+## Ruin
 
-**Sorcery**: The workings or trappings of magic, omens, bargains;
-
-### Learn or Discover Things
-
-Pledge a token of your choice to lure the Covenant into answering a question of yours.
-
-Once someone claims the token, ask your question, and they must answer.
-
-Both the question and the answer must match the kind of token pledged.
-
-Should the token not be claimed, you may decide to cast it into the pit to Know or Decide Things as you desire, or take it back.
-
-[describe or suggest token outcomes like in learn/discover]
-
-### Feel or Express Things
-
-At any time, any member of the Covenant may choose this action to roleplay their character’s reactions, emotions, and thoughts in response to the other approaches.
-
-The long and short of it is that this is a free-form action without cost that can drive the plot onward, expose characters, or just move the story forward.
-
-Simple actions that don't present any serious risk or challenge can also be roleplayed in this fashion (nobody needs to risk rolling their dice to cook breakfast, for example).
-
-
-# Ruin and Blasphemy
-
-[Consumption, exhaustion, exploited by the powers you wield because wielding that power makes you beholden to the power structures and they do not seek your well-being]
-
-# Glossary
-
-- **Witness**: Each player is called a Witness;
-- **Spellblade**: Each Witness is responsible for a Spellblade;
-- **Covenant**: The group of **Spellblades** are referred to as The Covenant;
-- **Ritual**: Playing the game, the game session;
-- **Apocrypha**: the tale, or shared narrative.
-- Arbiter: dice
-- Report: notes
-- Registry: character sheet
+- [ ] you can't rely on your Trait
+- [ ] 
