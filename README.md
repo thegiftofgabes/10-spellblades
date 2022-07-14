@@ -12,4 +12,4 @@ This is a narrative game of Sword and Sorcery for 3 to 5 players who already h
 
 All feedback is appreciated.
 
-<iframe frameborder="0" src="https://itch.io/embed/1439899?linkback=true&amp;bg_color=000000&amp;fg_color=57ccd7&amp;link_color=fa5bd9&amp;border_color=cccccc" width="552" height="167"><a href="https://thegiftofdice.itch.io/spellblades">Spellblades by TheGiftOfGabes</a></iframe>
+[Download Spellblades](https://thegiftofdice.itch.io/spellblades)
