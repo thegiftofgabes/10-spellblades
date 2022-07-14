@@ -183,14 +183,28 @@ Consumption, exhaustion. Exploited by the powers you wield because wielding that
 
 You are a Witness, and you've come to pen the tale your own slow, certain demise.
 
-When you reveal a Spellblade's evidence of Blasphemy or ruin, determine which option fits the matter at hand. Each option is only valid once.
+When you reveal your own Blasphemy or Ruin, check which option fits the matter at hand and reveal what happened. Each option is only valid once.
 
 ## Blasphemy
 
-- [ ] 
-- [ ] 
+- [ ] your Focus is scattered, spent, or lost to you;
+- [ ] you are cursed, and none dare look you in the eye or start conversation;
+- [ ] you sullied your Covenant's reputation;
+- [ ] you broke a heart or took the spark from someone's soul;
+- [ ] your soul has been consumed, and a heart beats in an empty shell.
+
+Your heart telegraphs away its last beats in a cool, detestable chamber, where it slowly rots in the hands of a crooked Magistre.
 
 ## Ruin
 
-- [ ] 
-- [ ] 
+- [ ] your Blade lies broken, dulled, or impossible to lift;
+- [ ] you doled out pain and suffering with abandon;
+- [ ] you brought ruin to an innocent bystander;
+- [ ] you've destroyed something good or beautiful;
+- [ ] your body is exhausted, broken, and it gave.
+
+Now your brains lie in a bowl, as a Holy-Manne drains your testimony from it, dissecating your immortal soul one word at a time.
+
+---
+
+When the Ritual ends, collect all Records, Profiles, all traces of the tale that has been told, and find a secret, hidden place where none shall find it, but where you *could* access it again, should the need to draw knowledge from it arise.
