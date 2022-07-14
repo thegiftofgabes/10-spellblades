@@ -160,7 +160,19 @@
               "leaf": "deaece4a7231b3bb",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":77,\"ch\":0},\"to\":{\"line\":86,\"ch\":27}},\"scroll\":65.97766922540126}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":209,\"ch\":241},\"to\":{\"line\":209,\"ch\":241}},\"scroll\":195.86601535240754}"
             },
             {
               "leaf": "deaece4a7231b3bb",
@@ -263,18 +275,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":111.48150732728541}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":33},\"to\":{\"line\":10,\"ch\":33}}}"
             }
           ]
         }
@@ -401,9 +401,9 @@
   },
   "active": "deaece4a7231b3bb",
   "lastOpenFiles": [
-    "README.md",
-    "procedure.md",
     "resources/notes to parse.md",
+    "procedure.md",
+    "README.md",
     "resources/structure.md",
     "resources/names.md",
     "test.md",

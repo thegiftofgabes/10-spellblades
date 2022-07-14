@@ -50,7 +50,7 @@ Follow the steps below to profile a Spellblade.
 
 ## Weapon mastery
 
-Register their weapon mastery and the Trait related to it in their Profile.
+Record their weapon mastery and the Trait related to it in their Profile.
 
 | Mastery          | Trait    |
 | ---------------- | -------- |
@@ -62,7 +62,7 @@ Register their weapon mastery and the Trait related to it in their Profile.
 
 ## Spell focus
 
-Register their spell focus and the Aptitude it reflects in their Profile.
+Record their spell focus and the Aptitude it reflects in their Profile.
 
 | Focus   | Aptitude    |
 | ------- | ----------- |
@@ -102,7 +102,7 @@ Collect as many Burdens of each kind as you wish, adding to a total of 7.
 
 ## Yield your Past
 
-Register this Spellblade's Name, Pronouns and looks. You may roll two dice to find them below.
+Fill in this Spellblade's Name, Pronouns and looks. You may roll two dice to find them below.
 
 **Names** (roll 2d6): 1.1 Dia, 1.2 Bex, 1.3 August, 1.4 Fleur, 1.5 Haven, 1.6 Aden, 2.2 Dew, 2.3 Saylor, 2.4 Vale, 2.5 Ira, 2.6 River, 3.3 Céu, 3.4 Pax, 3.5 Moss, 3.6 Rain, 4.4 Aloe, 4.5 Birch, 4.6 Bloom, 5.5 Fede, 5.6 Soleil, 6.6 Gift.
 
@@ -208,3 +208,15 @@ Now your brains lie in a bowl, as a Holy-Manne drains your testimony from it, di
 ---
 
 When the Ritual ends, collect all Records, Profiles, all traces of the tale that has been told, and find a secret, hidden place where none shall find it, but where you *could* access it again, should the need to draw knowledge from it arise.
+
+# Glossary
+
+- **Witness**: Each player is called a Witness;
+- **Spellblade**: Each Witness is responsible for a Spellblade, a protagonist character;
+- **Covenant**: The group of **Spellblades** are referred to as The Covenant;
+- **Ritual**: Playing the game, the game session;
+- **Apocrypha**: the tale, or shared narrative being created by all players;
+- **Die, Dice**: you need six sided dice, a buncg of them, in order to play;
+- **Burden**: Anything that works as a token: bottle caps, feathers, pebbles. You need three sets, each of a colour;
+- **Registry**: The notes taken about the game for
+- **Profile**: A record of each character, annotated in a sheet of paper or a digital page.
