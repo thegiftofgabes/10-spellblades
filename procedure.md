@@ -179,6 +179,10 @@ Should the token not be claimed, you may take it back, or decide to cast it away
 
 # Blasphemy and Ruin
 
+Consumption, exhaustion. Exploited by the powers you wield because wielding that power makes you beholden to Power Structures that seek self-preservation above all, and that do not seek your well-being, you are now a shade of whom you once were.
+
+You are a Witness, and you've come to pen the tale your own slow, certain demise.
+
 When you reveal a Spellblade's evidence of Blasphemy or ruin, determine which option fits the matter at hand. Each option is only valid once.
 
 ## Blasphemy
@@ -188,5 +192,5 @@ When you reveal a Spellblade's evidence of Blasphemy or ruin, determine which op
 
 ## Ruin
 
-- [ ] you can't rely on your Trait
+- [ ] 
 - [ ] 
