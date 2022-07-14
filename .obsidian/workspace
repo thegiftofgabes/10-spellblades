@@ -27,7 +27,7 @@
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/names.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/names.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":113},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
@@ -39,19 +39,19 @@
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/ver. 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/ver. 1.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/structure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/structure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"scroll\":478.6154919748779}"
             },
             {
@@ -147,7 +147,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "procedure.md",
+            "file": "archive/README.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -159,8 +159,14 @@
             {
               "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "deaece4a7231b3bb",
@@ -177,7 +183,7 @@
             {
               "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":82},\"to\":{\"line\":15,\"ch\":82}}}"
             },
             {
@@ -189,13 +195,13 @@
             {
               "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/structure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/structure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":156},\"to\":{\"line\":15,\"ch\":156}}}"
             },
             {
@@ -207,7 +213,7 @@
             {
               "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":77,\"ch\":0},\"to\":{\"line\":86,\"ch\":27}},\"scroll\":65.97766922540126}"
             },
             {
@@ -231,13 +237,13 @@
             {
               "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":75,\"ch\":1},\"to\":{\"line\":75,\"ch\":167}},\"scroll\":55.241451500348916}"
             },
             {
               "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/structure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/structure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             },
             {
@@ -249,13 +255,13 @@
             {
               "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/names.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/names.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
@@ -268,12 +274,6 @@
               "leaf": "deaece4a7231b3bb",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
@@ -325,7 +325,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 178.5
+    "width": 487
   },
   "right": {
     "id": "670b20684f9bf95b",
@@ -341,7 +341,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "procedure.md",
+                "file": "archive/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -401,15 +401,15 @@
   },
   "active": "deaece4a7231b3bb",
   "lastOpenFiles": [
-    "resources/2.png",
     "procedure.md",
-    "resources/notes to parse.md",
-    "resources/structure.md",
+    "resources/2.png",
+    "archive/notes to parse.md",
+    "archive/structure.md",
     "README.md",
-    "resources/names.md",
+    "archive/names.md",
     "test.md",
     "testing.md",
     "conflict-files-obsidian-git.md",
-    "resources/ver. 1.md"
+    "archive/ver. 1.md"
   ]
 }
