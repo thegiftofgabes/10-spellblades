@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "procedure.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -21,8 +21,38 @@
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":118,\"ch\":0},\"to\":{\"line\":118,\"ch\":0}},\"scroll\":109.2337752965806}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spellblades.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":7.171486408328514}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":0},\"to\":{\"line\":16,\"ch\":0}}}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"pdf\",\"state\":{\"file\":\"Export/1.0/Spellblades - Gabriel Caetano.pdf\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Export/1.0/Spellblades 1.0.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "f357f2b16f3a0059",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spellblades.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":14},\"to\":{\"line\":4,\"ch\":14}},\"scroll\":0}"
             },
             {
               "leaf": "f357f2b16f3a0059",
@@ -33,7 +63,7 @@
             {
               "leaf": "f357f2b16f3a0059",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spellblades.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"scroll\":75.66312136139723}"
             },
             {
@@ -107,36 +137,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_01-overview.md\",\"mode\":\"source\",\"backlinks\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "f357f2b16f3a0059",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_09-core-moves.md\",\"mode\":\"source\",\"backlinks\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "f357f2b16f3a0059",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_08-burdens.md\",\"mode\":\"source\",\"backlinks\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "f357f2b16f3a0059",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_07-traits.md\",\"mode\":\"source\",\"backlinks\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "f357f2b16f3a0059",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_06-conversation.md\",\"mode\":\"source\",\"backlinks\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "f357f2b16f3a0059",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"content.en/quickstart/_04-pillars.md\",\"mode\":\"source\",\"backlinks\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
             }
           ]
         }
@@ -147,7 +147,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "archive/README.md",
+            "file": "Spellblades.md",
             "mode": "source",
             "backlinks": false,
             "source": false
@@ -159,13 +159,67 @@
             {
               "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spellblades.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spellblades.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":856},\"to\":{\"line\":9,\"ch\":856}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":859},\"to\":{\"line\":8,\"ch\":859}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spellblades.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             },
             {
               "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spellblades.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spellblades.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":91},\"to\":{\"line\":5,\"ch\":91}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spellblades.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"scroll\":0}"
             },
             {
@@ -177,7 +231,7 @@
             {
               "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spellblades.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":129},\"to\":{\"line\":12,\"ch\":129}}}"
             },
             {
@@ -189,7 +243,7 @@
             {
               "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spellblades.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":81}}}"
             },
             {
@@ -207,7 +261,7 @@
             {
               "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spellblades.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":978},\"to\":{\"line\":8,\"ch\":978}},\"scroll\":0}"
             },
             {
@@ -219,62 +273,8 @@
             {
               "leaf": "deaece4a7231b3bb",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Spellblades.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":209,\"ch\":241},\"to\":{\"line\":209,\"ch\":241}},\"scroll\":195.86601535240754}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":75,\"ch\":1},\"to\":{\"line\":75,\"ch\":167}},\"scroll\":55.241451500348916}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/structure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":181,\"ch\":0},\"to\":{\"line\":181,\"ch\":0}},\"scroll\":172.82205163991625}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/names.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"archive/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"README.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -341,7 +341,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archive/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -399,17 +399,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "deaece4a7231b3bb",
+  "active": "f357f2b16f3a0059",
   "lastOpenFiles": [
-    "procedure.md",
+    "Spellblades.md",
+    "README.md",
+    "Export/1.0/Spellblades - Gabriel Caetano.pdf",
+    "Export/1.0/Spellblades 1.0.md",
+    "archive/README.md",
     "resources/2.png",
     "archive/notes to parse.md",
     "archive/structure.md",
-    "README.md",
     "archive/names.md",
-    "test.md",
-    "testing.md",
-    "conflict-files-obsidian-git.md",
-    "archive/ver. 1.md"
+    "test.md"
   ]
 }
