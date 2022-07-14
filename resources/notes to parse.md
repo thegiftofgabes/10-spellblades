@@ -13,6 +13,8 @@ something breaks, or is pushed away, out of reach.
 the poor, sodden work done is revealed, or the cost is much higher than anticipated.
 so much time is wasted, or the work hasn't been as thorough as one thought.
 
+This is the account of such Spellblades, as they were known, relayed by Witnesses ~~bound by oath and chain to testify truly and unerringly, for these are true facts that shall enter the history, but to what benefit remains to be known.~~
+
 # DESIGN: ITEMS FOR CLOSURE
 
 I WANT TO KNOW (DECIDE) SOMETHING: 

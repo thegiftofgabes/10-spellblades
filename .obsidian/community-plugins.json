@@ -16,5 +16,6 @@
   "pane-relief",
   "obsidian-text-format",
   "obsidian-git",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "obsidian-pandoc"
 ]

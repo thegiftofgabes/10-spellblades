@@ -160,7 +160,49 @@
               "leaf": "deaece4a7231b3bb",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"image\",\"state\":{\"file\":\"resources/2.png\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":129},\"to\":{\"line\":12,\"ch\":129}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":82},\"to\":{\"line\":15,\"ch\":82}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":81}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/structure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":156},\"to\":{\"line\":15,\"ch\":156}}}"
+            },
+            {
+              "leaf": "deaece4a7231b3bb",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":978},\"to\":{\"line\":8,\"ch\":978}},\"scroll\":0}"
             },
             {
               "leaf": "deaece4a7231b3bb",
@@ -233,48 +275,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"testing.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"test.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"resources/notes to parse.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"procedure.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":163.76855082577345}"
-            },
-            {
-              "leaf": "deaece4a7231b3bb",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"conflict-files-obsidian-git.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}},\"scroll\":0}"
             }
           ]
         }
@@ -401,15 +401,15 @@
   },
   "active": "deaece4a7231b3bb",
   "lastOpenFiles": [
-    "resources/notes to parse.md",
+    "resources/2.png",
     "procedure.md",
-    "README.md",
+    "resources/notes to parse.md",
     "resources/structure.md",
+    "README.md",
     "resources/names.md",
     "test.md",
     "testing.md",
     "conflict-files-obsidian-git.md",
-    "resources/ver. 1.md",
-    "resources/2.png"
+    "resources/ver. 1.md"
   ]
 }

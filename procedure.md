@@ -1,4 +1,12 @@
+---
+Title: "Spellblades"
+Author: "Gabriel Caetano"
+Version: "1.0"
+---
+
 # Spellblades
+
+This is the account of such Spellblades, as they were known, relayed by Witnesses, b̷̥̐̀o̷̧̼͂u̵̡̱̓͋n̶̢̟̓͋d̷̳͐ ̵̰́b̷̙̞̍y̸̦̦̏̓ ̶͓̂o̷͎̿a̶̺̒͂ţ̶͘h̷̰̓ ̸̱̄a̸̹͋͑n̵̙̘̈͝d̵̛̠ ̶͕͙̍͋c̴̭̣̋̓h̵̠͗ḁ̸̓i̷̻̩̋͑ń̸͚͔̐ ̷̡̊̋t̸̢̩̍̕ö̵̫́ ̵̨͉̄t̶̫̿̕è̴̠͖͠s̶̝̒̈́t̵̨̅͘i̵͕͊̇ͅf̷͓̜̌̏ȳ̶̱͍ ̴̝̯̈́̒t̸͙̙̅r̶͚̟͒̊ű̷̯ḽ̶̌y̴̺̓ ̵̼̚̕ä̵̹̭́͑ņ̵̗͛̕d̷̹͓̽̍ ̷̣̥̈́͒ų̷͎̒͑ń̸̠͗ę̷̯͌͘r̶͍̽̚ȑ̷̛̫̰ȋ̵̹̠ǹ̸̙̉g̸̠̊l̴̪̂y̷̭̿,̴̝̥̓ ̴̤͛͝f̴̱̀̈́õ̸͙̬r̸̨̰͝ ̴̖̽͊t̴͖̚h̶͕̄e̷̗̋͋s̶̨͗ḙ̷́͠ ̵̮̗͘ȁ̶̦̳̓ŗ̴̗̿e̵̯͌̆ ̷̧͇̌̽t̸̬̃r̷̮͙̿ȕ̷͔̤e̸̻̐̊ ̵͘ͅf̴̡̓a̴̟͚̿̆c̶̣̾̀͜ţ̸̑s̷̠͝ͅ ̵̺̏t̸̻̜͋̈́h̸͙́a̵̹̎t̴̛̼̀ ̸͖̇̓s̷̛̞̈́h̴͈́ǎ̴̠͜ľ̵̮ļ̶̜͂̈́ ̶̪̲̋̽e̵̯̿n̸̻̼͆́t̸̞͈͂̓ě̴͉͓r̶͓̼͌ ̸̲̉t̵͕̽̒h̷͔̟͋͋ë̸̘̥́ ̵̼̃͂h̸̦̅̕i̷̳̣͌̑ș̵̍͘ṫ̶̡̫͋o̷͍͐̒r̶͓̙͌ỳ̶̧̱,̶̮̔ ̸̧̊̒b̷͔͙̍u̶͙͔̒̂ṱ̷͐̕ ̴̦̾́t̵̲͑̌ͅö̵̠́̐ ̷̘̃ŵ̵̪̬h̴͎̺͝ä̵̼̝́ť̴̢͇ ̵̹̓b̶̬͘ȩ̷̪͐n̸͕̑́e̴̥͝͝f̸̢̠̚i̴̜̝͋͗t̶̫͌ ̶̯̒̿r̴̲̂ẻ̴̡̖͘ḿ̴̳a̴̧͝i̴͔̠͂n̴̨͂s̷̭̘̿͋ ̴͈͋̾t̶̻̺͝o̸͈̍ ̶̧͇͌b̸̛̩͈͌ẽ̶͖̏ ̸̹̱͆k̷̫͒͛n̴̤͋o̶̜͇̾̅w̸̠̹͑ṉ̵̈́̉
 
 ## The Apocrypha Index
 
@@ -181,9 +189,9 @@ Should the token not be claimed, you may take it back, or decide to cast it away
 
 Consumption, exhaustion. Exploited by the powers you wield because wielding that power makes you beholden to Power Structures that seek self-preservation above all, and that do not seek your well-being, you are now a shade of whom you once were.
 
-You are a Witness, and you've come to pen the tale your own slow, certain demise.
+You are a Witness, and you've come to relay the tale your own slow, certain demise.
 
-When you reveal your own Blasphemy or Ruin, check which option fits the matter at hand and reveal what happened. Each option is only valid once.
+Each time you reveal a Blasphemy or Ruin, check which option fits the matter at hand and reveal what happened. Each option is only valid once.
 
 ## Blasphemy
 
