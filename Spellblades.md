@@ -87,7 +87,7 @@ Record their spell focus and the Aptitude it reflects in their Profile.
 
 Record the Spellblade's skills in their profile. 
 
-Any heart filled is called Ladden, any heart left empty is called Void. Mark as many hearst as Ladden and Void per skill as you see fit.
+Any heart filled is called Laden, any heart left empty is called Void. Mark as many hearts as Laden and Void per skill as you see fit.
 
 Void hearts weigh in when a Spellblade relies on their Spells, while Laden hearts count towards the use of their Blade.
 
@@ -125,11 +125,13 @@ Once the Apocrypha has been established, the eldest Witness must describe the si
 
 Each Witness must bring forth their share of the Apocrypha, in turns and over each other, as is their wont.
 
-All Witnesses must conduct themselves with utmost respect, care, and understanding of each other's limits and boundaries, as well as they're own. 
+All Witnesses must conduct themselves with utmost respect, care, and understanding of each other's limits and boundaries, as well as their own. 
 
 Learn and teach each other when to draw a veil over the Apocrypha, and what lines must not be crossed by any means.
 
 Each Witness is expected to role-play a Spellblade, as well as contribute to each other's account, and thus contribute to the overall telling of the Apocrypha.
+
+When secular actors are introduced to the testimony, all Witnesses are responsible for their account. Taking turns, each witness will be in charge of those actors as needed, relay their interaction with the Covenant dispassionately and removed
 
 When secular actors come into play, one of the Witnesses must relay their interaction with the Covenant dispassionately and removed, for as long as they are not acting directly towards their own Spellblade.
 
